@@ -1,6 +1,6 @@
 # RUSSIAN EPUB SCRAPER PROJECT 
 
-![Website]("img/aldebaranru.png")
+![Website]("/img/aldebaranru.png")
 
 ## Project Goal 
 
