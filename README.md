@@ -1,6 +1,6 @@
 # RUSSIAN EPUB SCRAPER PROJECT 
 
-![Website]("/img/aldebaranru.png")
+![Aldebaran.ru]('https://github.com/gokayburuc/epub_file_scraper_ru/blob/main/img/aldebaranru.png')
 
 ## Project Goal 
 
